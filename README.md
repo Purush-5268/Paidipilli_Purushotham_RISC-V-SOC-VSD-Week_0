@@ -26,13 +26,12 @@ The first week was dedicated to establishing a robust development environment by
 
 ### 🙏 Acknowledgments
 
-This learning experience would not be possible without the guidance of **Kunal Ghosh** and the entire **Team at VLSI System Design (VSD)**.
+This learning experience would not be possible without the guidance of **[Kunal Ghosh](https://github.com/kunalg123)** and the entire **Team at VLSI System Design (VSD)**.
 
 I am also thankful for the support from the broader semiconductor community, including:
 - **RISC-V International**
 - **India Semiconductor Mission (ISM)**
 - **VLSI Society of India (VSI)**
-
 ---
 
 ### 🔗 Useful Links
