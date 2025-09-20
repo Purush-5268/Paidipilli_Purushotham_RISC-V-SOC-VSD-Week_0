@@ -1,6 +1,6 @@
 # 🖥️ My Journey in the RISC-V SoC Tapeout Program
 
-Welcome! This repository chronicles my progress and learnings as I participate in the **VLSI System Design (VSD) RISC-V System-on-Chip (SoC) Tapeout Program**. My goal is to document each stage of the journey, from digital logic design to a final physical layout.
+Welcome! to my journey through the **VLSI System Design (VSD) RISC-V System-on-Chip (SoC) Tapeout Program**. My primary goal is to enhance my practical skills in the complete SoC design flow, covering everything from digital logic design to the final physical layout.
 
 > This intensive program provides hands-on training in designing a complete SoC, taking a concept from a Register Transfer Level (RTL) description down to the GDSII file format required for fabrication. As part of a massive national initiative, it leverages open-source EDA tools to empower thousands of engineers and students to contribute to India's growing semiconductor ecosystem.
 
