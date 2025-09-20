@@ -14,7 +14,7 @@ The first week was dedicated to establishing a robust development environment by
 | :----- | :------------------------------------------------- | :----: |
 | **0** | `Icarus Verilog` (Simulation), `Yosys` (Synthesis), `GTKWave` (Waveform Viewing) |   ✅   |
 
-> 📝 **Installation Guide:** For a detailed, step-by-step tutorial on how I installed and configured these tools on my system, please see the [**dedicated README in the Week 0 folder.**](./Week0/README.md)
+> 📝 **Installation Guide:** For a detailed, step-by-step tutorial on how I installed and configured these tools on my system, please see the [**dedicated README in the Week 0 folder.**](https://github.com/Purush-5268/Paidipilli_Purushotham_RISC-V-SOC-VSD-Week_0/blob/main/Lab%20Snapshots/README.md)
 
 
 ### 🌟 Key Learnings from this Stage
