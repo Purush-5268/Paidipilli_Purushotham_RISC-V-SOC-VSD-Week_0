@@ -1,1 +1,41 @@
-# Paidipilli_Purushotham_RISC-V-SOC-VSD-Week_0
+# 🖥️ My Journey in the RISC-V SoC Tapeout Program
+
+Welcome! This repository chronicles my progress and learnings as I participate in the **VLSI System Design (VSD) RISC-V System-on-Chip (SoC) Tapeout Program**. My goal is to document each stage of the journey, from digital logic design to a final physical layout.
+
+> This intensive program provides hands-on training in designing a complete SoC, taking a concept from a Register Transfer Level (RTL) description down to the GDSII file format required for fabrication. As part of a massive national initiative, it leverages open-source EDA tools to empower thousands of engineers and students to contribute to India's growing semiconductor ecosystem.
+
+---
+
+## 📅 Week 0: Foundation and Tool Setup
+
+The first week was dedicated to establishing a robust development environment by installing and verifying the essential open-source Electronic Design Automation (EDA) tools.
+
+| Task   | Core Tools Installed                               | Status |
+| :----- | :------------------------------------------------- | :----: |
+| **0** | `Icarus Verilog` (Simulation), `Yosys` (Synthesis), `GTKWave` (Waveform Viewing) |   ✅   |
+
+> 📝 **Installation Guide:** For a detailed, step-by-step tutorial on how I installed and configured these tools on my system, please see the [**dedicated README in the Week 0 folder.**](./Week0/README.md)
+
+
+### 🌟 Key Learnings from this Stage
+- Gained hands-on experience configuring a Linux environment for digital design work.
+- Developed a foundational understanding of the role each tool plays in the RTL-to-GDSII flow.
+- Successfully compiled and simulated a test Verilog module to ensure the toolchain was fully operational.
+
+---
+
+### 🙏 Acknowledgments
+
+This learning experience would not be possible without the guidance of **Kunal Ghosh** and the entire **Team at VLSI System Design (VSD)**.
+
+I am also thankful for the support from the broader semiconductor community, including:
+- **RISC-V International**
+- **India Semiconductor Mission (ISM)**
+- **VLSI Society of India (VSI)**
+
+---
+
+### 🔗 Useful Links
+
+[![VSD](https://img.shields.io/badge/VSD-Official_Website-blue?style=for-the-badge&logo=world&logoColor=white)](https://www.vlsisystemdesign.com/)
+[![RISC-V](https://img.shields.io/badge/RISC--V-International-orange?style=for-the-badge&logo=riscv&logoColor=white)](https://riscv.org/)
