@@ -33,7 +33,7 @@ Yosys, the core synthesis framework, was compiled and installed from its latest 
 **📝 Commands Executed:**
 ```bash
 sudo apt-get update
-git clone [https://github.com/YosysHQ/yosys.git](https://github.com/YosysHQ/yosys.git)
+git clone https://github.com/YosysHQ/yosys.git    //(https://github.com/YosysHQ/yosys.git)
 cd yosys
 sudo apt install make               # Ensure 'make' is available
 sudo apt-get install -y build-essential clang bison flex \
